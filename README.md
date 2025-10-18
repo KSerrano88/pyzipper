@@ -40,11 +40,3 @@ with pyzipper.AESZipFile('secret.zip') as zf:
 Compatibility
 
 pyzipper aims to be a drop-in replacement for the standard library zipfile where feasible, while adding support for AES-encrypted ZIPs and a few convenience helpers.
-
-Contributing
-
-Contributions are welcome — please open issues or pull requests. When contributing, include tests and follow existing code style.
-
-License
-
-Include your project license here (e.g., MIT).
